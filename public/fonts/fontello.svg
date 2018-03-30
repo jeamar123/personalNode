@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="check-mark" unicode="&#xe800;" d="m986 645l-47 46c-19 19-50 19-69 0l-486-485-254 254c-19 19-50 19-69 0l-47-46c-19-19-19-51 0-70l336-335c9-10 22-15 34-15s25 5 35 15l566 567c20 19 20 50 1 69z" horiz-adv-x="1000" />
+<glyph glyph-name="cross-mark" unicode="&#xe801;" d="m598 350l382 382c27 27 27 71 0 98-27 27-71 27-98 0l-382-382-382 382c-27 27-71 27-98 0s-27-71 0-98l382-382-382-382c-27-27-27-71 0-98 27-27 71-27 98 0l382 382 382-382c27-27 71-27 98 0 27 27 27 71 0 98l-382 382z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

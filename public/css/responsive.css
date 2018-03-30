@@ -1,0 +1,319 @@
+
+	
+
+		
+	@media only screen and (min-width : 320px) {
+		.col-xxs-1{
+			width: 8.333333333333333%;
+		}
+
+		.col-xxs-2{
+			width: 16.66666666666667%;
+		}
+
+		.col-xxs-3{
+			width: 25%;
+		}
+
+		.col-xxs-4{
+			width: 33.33333333333333%;
+		}
+
+		.col-xxs-5{
+			width: 41.66666666666667%;
+		}
+
+		.col-xxs-6{
+			width: 50%;
+		}
+
+		.col-xxs-7{
+			width: 58.33333333333333%;
+		}
+
+		.col-xxs-8{
+			width: 66.66666666666667%;
+		}
+
+		.col-xxs-9{
+			width: 75%;
+		}
+
+		.col-xxs-10{
+			width: 83.33333333333333%;
+		}
+
+		.col-xxs-11{
+			width: 91.66666666666667%;
+		}
+
+		.col-xxs-12{
+			width: 100%;
+		}
+
+		#home .item-wrapper .mid img{
+		  height: auto;
+		}
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+    	.col-xs-1{
+			width: 8.333333333333333%;
+		}
+
+		.col-xs-2{
+			width: 16.66666666666667%;
+		}
+
+		.col-xs-3{
+			width: 25%;
+		}
+
+		.col-xs-4{
+			width: 33.33333333333333%;
+		}
+
+		.col-xs-5{
+			width: 41.66666666666667%;
+		}
+
+		.col-xs-6{
+			width: 50%;
+		}
+
+		.col-xs-7{
+			width: 58.33333333333333%;
+		}
+
+		.col-xs-8{
+			width: 66.66666666666667%;
+		}
+
+		.col-xs-9{
+			width: 75%;
+		}
+
+		.col-xs-10{
+			width: 83.33333333333333%;
+		}
+
+		.col-xs-11{
+			width: 91.66666666666667%;
+		}
+
+		.col-xs-12{
+			width: 100%;
+		}
+
+		#home .item-view:nth-child(odd) .item-wrapper{
+			margin-right: 4px;
+		}
+
+		#home .item-view:nth-child(even) .item-wrapper{
+			margin-left: 4px;
+		}
+
+		#home .item-wrapper .mid img{
+		  height: 200px;
+		}
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+		.col-sm-1{
+			width: 8.333333333333333%;
+		}
+
+		.col-sm-2{
+			width: 16.66666666666667%;
+		}
+
+		.col-sm-3{
+			width: 25%;
+		}
+
+		.col-sm-4{
+			width: 33.33333333333333%;
+		}
+
+		.col-sm-5{
+			width: 41.66666666666667%;
+		}
+
+		.col-sm-6{
+			width: 50%;
+		}
+
+		.col-sm-7{
+			width: 58.33333333333333%;
+		}
+
+		.col-sm-8{
+			width: 66.66666666666667%;
+		}
+
+		.col-sm-9{
+			width: 75%;
+		}
+
+		.col-sm-10{
+			width: 83.33333333333333%;
+		}
+
+		.col-sm-11{
+			width: 91.66666666666667%;
+		}
+
+		.col-sm-12{
+			width: 100%;
+		}
+
+		#home .item-wrapper:nth-child(odd){
+			margin-right: 4px;
+		}
+
+		#home .item-wrapper:nth-child(odd){
+			margin-left: 4px;
+		}
+
+		#home .item-wrapper .mid img{
+		  height: 200px;
+		}
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px){
+		.col-md-1{
+			width: 8.333333333333333%;
+		}
+
+		.col-md-2{
+			width: 16.66666666666667%;
+		}
+
+		.col-md-3{
+			width: 25%;
+		}
+
+		.col-md-4{
+			width: 33.33333333333333%;
+		}
+
+		.col-md-5{
+			width: 41.66666666666667%;
+		}
+
+		.col-md-6{
+			width: 50%;
+		}
+
+		.col-md-7{
+			width: 58.33333333333333%;
+		}
+
+		.col-md-8{
+			width: 66.66666666666667%;
+		}
+
+		.col-md-9{
+			width: 75%;
+		}
+
+		.col-md-10{
+			width: 83.33333333333333%;
+		}
+
+		.col-md-11{
+			width: 91.66666666666667%;
+		}
+
+		.col-md-12{
+			width: 100%;
+		}
+
+		#home .item-wrapper .mid img{
+		  height: 400px;
+		}
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+    	.col-lg-1{
+			width: 8.333333333333333%;
+		}
+
+		.col-lg-2{
+			width: 16.66666666666667%;
+		}
+
+		.col-lg-3{
+			width: 25%;
+		}
+
+		.col-lg-4{
+			width: 33.33333333333333%;
+		}
+
+		.col-lg-5{
+			width: 41.66666666666667%;
+		}
+
+		.col-lg-6{
+			width: 50%;
+		}
+
+		.col-lg-7{
+			width: 58.33333333333333%;
+		}
+
+		.col-lg-8{
+			width: 66.66666666666667%;
+		}
+
+		.col-lg-9{
+			width: 75%;
+		}
+
+		.col-lg-10{
+			width: 83.33333333333333%;
+		}
+
+		.col-lg-11{
+			width: 91.66666666666667%;
+		}
+
+		.col-lg-12{
+			width: 100%;
+		}
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
